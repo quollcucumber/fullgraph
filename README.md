@@ -19,6 +19,7 @@ Say your handle was tourist, you would replace it with:
 "leetcode": "",
 "orac": False
 ```
+If you don't have a specific account on one of these, simply leave it blank.
 
 To run it, download the appropriate python files with 
 ```
