@@ -36,7 +36,7 @@ And then simply run the file, and it should display the graph.
 3. Click f12/inspect(Q)
 4. Go to the storage tab
 5. Copy the value in SessionId, Value
-6. Change line 15 to what is intuative.
+6. Change line 15 to what is intuitive.
 7. Run
 
 If you've never used/even heard of orac2.info, you should make an account, it's got lots of amazing problems!
