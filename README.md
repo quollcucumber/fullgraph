@@ -24,3 +24,5 @@ To run it, download the appropriate python files with
 ```
 pip install matplotlib numpy pandas requests seaborn beautifulsoup4
 ```
+
+And then simply run the file, and it should display the graph.
