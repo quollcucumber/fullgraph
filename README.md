@@ -19,3 +19,8 @@ Say your handle was tourist, you would replace it with:
 "leetcode": "",
 "orac": False
 ```
+
+To run it, download the appropriate python files with 
+```
+pip install matplotlib numpy pandas requests seaborn beautifulsoup4
+```
