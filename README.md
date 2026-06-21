@@ -42,4 +42,5 @@ And then simply run the file, and it should display the graph.
 
 If you've never used/even heard of orac2.info, you should make an account, it's got lots of amazing problems!
 
+Here's my graph:
 <img width="1593" height="375" alt="Screenshot from 2026-06-21 21-26-18" src="https://github.com/user-attachments/assets/0820109e-290a-411f-bf13-816e6a92b41e" />
