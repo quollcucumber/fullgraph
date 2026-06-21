@@ -26,3 +26,17 @@ pip install matplotlib numpy pandas requests seaborn beautifulsoup4
 ```
 
 And then simply run the file, and it should display the graph.
+
+<h3> If you are in the group of like 10 people who actually have an orac2.info account: </h3>
+
+(steps for firefox, I presume other browsers are similar)
+
+1. Log into your orac acount
+2. Go to https://orac2.info/hub/allsubs/1
+3. Click f12/inspect(Q)
+4. Go to the storage tab
+5. Copy the value in SessionId, Value
+6. Change line 15 to what is intuative.
+7. Run
+
+If you've never used/even heard of orac2.info, you should make an account, it's got lots of amazing problems!
